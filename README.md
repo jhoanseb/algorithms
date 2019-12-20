@@ -1,2 +1,2 @@
 # algorithms
-Implementation of different algorithms
+My implementation of different algorithms
